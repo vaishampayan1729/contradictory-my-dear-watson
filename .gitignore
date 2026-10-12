@@ -1,0 +1,26 @@
+
+# Dataset files
+data/
+
+# Model checkpoints
+models/
+*.pt
+*.pth
+*.safetensors
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Secrets
+.env
+
+# macOS
+.DS_Store
+
